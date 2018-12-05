@@ -4,6 +4,12 @@ Github ==> web based Git tool/platform
 Gitlab
 BitBucket
 
+Kiln
+Codeplane
+CodePlex
+Beanstalk
+
+
 End----
 
 Thanks
